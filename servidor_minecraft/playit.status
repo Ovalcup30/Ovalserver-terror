@@ -1,370 +1,133 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1751292305357 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1751292590419 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292308472 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751292593518 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292311574 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751292596611 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292314669 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751292599721 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292317760 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751292602822 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292320847 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751292605935 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292323938 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751292609033 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292327026 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751292612144 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292330122 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751292615249 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292333226 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751292618352 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292336318 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751292621450 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292339418 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751292624550 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292342512 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751292627647 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292345602 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751292630750 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292348690 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751292633864 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292351782 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751292637014 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292354880 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751292640112 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292357977 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751292643217 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292361086 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751292646329 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292364181 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751292649432 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292367283 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751292652531 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292370375 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751292655629 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292373466 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751292658723 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292376563 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751292661829 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292379654 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1751292664936 tunnel running, 0 tunnels registered
 
 
 TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292382744 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292385836 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292388926 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292392020 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292395111 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292398215 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292401302 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292404391 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292407488 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292410594 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292413694 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292416793 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292419887 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292422980 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292426079 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292429177 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292432287 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292435390 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292438505 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292441612 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292444705 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292447803 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292450902 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292454007 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292457100 tunnel running, 1 tunnels registered
+Add tunnels here: https://playit.gg/account/agents/1dcc73d2-1f2c-42e0-b28b-79e21d1d592e
+[2J8[0mplayit (v0.15.26): 1751292668040 tunnel running, 0 tunnels registered
 
 
 TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292460196 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292463305 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292466416 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292469510 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292472605 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292475705 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292478797 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292481890 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292484989 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292488094 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292491185 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292494286 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292497377 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292500618 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292503728 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292506833 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292509931 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292513248 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292516400 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292519495 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292522593 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292525699 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292528808 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1751292531933 tunnel running, 1 tunnels registered
-
-
-TUNNELS
-published-writing.gl.at.ply.gg:10221 => 127.0.0.1:10221 (proto: Udp, port count: 1)
+Add tunnels here: https://playit.gg/account/agents/1dcc73d2-1f2c-42e0-b28b-79e21d1d592e
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ApiError(Auth(InvalidAgentKey))

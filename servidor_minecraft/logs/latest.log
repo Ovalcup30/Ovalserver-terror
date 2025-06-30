@@ -1,53 +1,53 @@
-[30Jun2025 14:05:05.536] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[30Jun2025 14:05:05.541] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[30Jun2025 14:05:05.911] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[30Jun2025 14:05:05.920] [main/INFO] [mixin-transmog/]: Mixin Transmogrifier is definitely up to no good...
-[30Jun2025 14:05:05.954] [main/INFO] [mixin-transmog/]: crimes against java were committed
-[30Jun2025 14:05:05.973] [main/INFO] [mixin-transmog/]: Original mixin transformation service successfully crobbed by mixin-transmogrifier!
-[30Jun2025 14:05:06.023] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Ovalserver-terror/servidor_minecraft/mods/Connector-1.0.0-beta.46+1.20.1%20-%20copia.jar%23131%23134!/ Service=ModLauncher Env=SERVER
-[30Jun2025 14:05:06.322] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Ovalserver-terror/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[30Jun2025 14:05:06.323] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Ovalserver-terror/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[30Jun2025 14:05:06.324] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Ovalserver-terror/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[30Jun2025 14:05:06.326] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Ovalserver-terror/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[30Jun2025 14:05:06.733] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 51 dependencies adding them to mods collection
-[30Jun2025 14:05:07.078] [main/INFO] [org.sinytra.connector.locator.DependencyResolver/]: Dependency resolution found 3 candidates to load
-[30Jun2025 14:05:08.206] [main/INFO] [org.sinytra.connector.service.hacks.ModuleLayerMigrator/]: Successfully made module authlib transformable
-[30Jun2025 14:05:09.396] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[30Jun2025 14:05:09.650] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[30Jun2025 14:05:09.726] [main/WARN] [mixin/]: Reference map 'sittingplus.refmap.json' for sittingplus.mixins.json could not be read. If this is a development environment you can ignore this message
-[30Jun2025 14:05:09.931] [main/WARN] [mixin/]: Reference map '' for adapter.init.mixins.json could not be read. If this is a development environment you can ignore this message
-[30Jun2025 14:05:10.276] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/MouseHandler for invalid dist DEDICATED_SERVER
-[30Jun2025 14:05:10.277] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/MouseHandler (java.lang.RuntimeException: Attempted to load class net/minecraft/client/MouseHandler for invalid dist DEDICATED_SERVER)
-[30Jun2025 14:05:10.278] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.MouseHandler was not found fabric-screen-api-v1.mixins.json:MouseMixin from mod fabric_screen_api_v1
-[30Jun2025 14:05:10.280] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
-[30Jun2025 14:05:10.281] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
-[30Jun2025 14:05:10.281] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found fabric-screen-api-v1.mixins.json:ScreenAccessor from mod fabric_screen_api_v1
-[30Jun2025 14:05:11.338] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
-[30Jun2025 14:05:17.511] [main/INFO] [surveyor/]: [Surveyor] is not a map mod
-[30Jun2025 14:05:17.708] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.animation_overhaul.config.AnimationsConfig.
-[30Jun2025 14:05:17.710] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.animation_overhaul.config.AnimationsConfig read successfully.
-[30Jun2025 14:05:17.727] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.animation_overhaul.config.PlayerConfig.
-[30Jun2025 14:05:17.730] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.animation_overhaul.config.PlayerConfig read successfully.
-[30Jun2025 14:05:17.732] [modloading-worker-0/INFO] [animation_overhaul/]: Animation Overhaul's Config initialized
-[30Jun2025 14:05:17.781] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[30Jun2025 14:05:17.781] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[30Jun2025 14:05:18.100] [modloading-worker-0/INFO] [necronomicon/]: Necronomicon Initialized
-[30Jun2025 14:05:18.102] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.necronomicon.NecronomiconConfig.
-[30Jun2025 14:05:18.105] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.necronomicon.NecronomiconConfig read successfully.
-[30Jun2025 14:05:19.097] [main/INFO] [net.minecraft.resources.RegistryDataLoader/]: Capturing existing worldgen registries
-[30Jun2025 14:05:19.097] [main/INFO] [net.minecraft.resources.RegistryDataLoader/]: Found 0 injected RegistryDataLoader worldgen registries
-[30Jun2025 14:05:19.657] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Starting version check at https://mrcrayfish.com/modupdatejson?id=configured
-[30Jun2025 14:05:19.661] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[30Jun2025 14:05:19.770] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[30Jun2025 14:05:19.775] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[30Jun2025 14:05:19.775] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[30Jun2025 14:05:19.775] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[30Jun2025 14:05:19.946] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
-[30Jun2025 14:05:19.957] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
-[30Jun2025 14:05:19.958] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[30Jun2025 14:05:19.986] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[30Jun2025 14:05:19.992] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[30Jun2025 14:05:20.187] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[30Jun2025 14:09:48.986] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[30Jun2025 14:09:48.990] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[30Jun2025 14:09:49.371] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[30Jun2025 14:09:49.379] [main/INFO] [mixin-transmog/]: Mixin Transmogrifier is definitely up to no good...
+[30Jun2025 14:09:49.416] [main/INFO] [mixin-transmog/]: crimes against java were committed
+[30Jun2025 14:09:49.435] [main/INFO] [mixin-transmog/]: Original mixin transformation service successfully crobbed by mixin-transmogrifier!
+[30Jun2025 14:09:49.483] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Ovalserver-terror/servidor_minecraft/mods/Connector-1.0.0-beta.46+1.20.1%20-%20copia.jar%23131%23134!/ Service=ModLauncher Env=SERVER
+[30Jun2025 14:09:49.807] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Ovalserver-terror/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[30Jun2025 14:09:49.809] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Ovalserver-terror/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[30Jun2025 14:09:49.810] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Ovalserver-terror/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[30Jun2025 14:09:49.811] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Ovalserver-terror/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[30Jun2025 14:09:50.251] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 51 dependencies adding them to mods collection
+[30Jun2025 14:09:50.595] [main/INFO] [org.sinytra.connector.locator.DependencyResolver/]: Dependency resolution found 3 candidates to load
+[30Jun2025 14:09:51.701] [main/INFO] [org.sinytra.connector.service.hacks.ModuleLayerMigrator/]: Successfully made module authlib transformable
+[30Jun2025 14:09:52.997] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[30Jun2025 14:09:53.212] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[30Jun2025 14:09:53.308] [main/WARN] [mixin/]: Reference map 'sittingplus.refmap.json' for sittingplus.mixins.json could not be read. If this is a development environment you can ignore this message
+[30Jun2025 14:09:53.542] [main/WARN] [mixin/]: Reference map '' for adapter.init.mixins.json could not be read. If this is a development environment you can ignore this message
+[30Jun2025 14:09:53.989] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/MouseHandler for invalid dist DEDICATED_SERVER
+[30Jun2025 14:09:53.990] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/MouseHandler (java.lang.RuntimeException: Attempted to load class net/minecraft/client/MouseHandler for invalid dist DEDICATED_SERVER)
+[30Jun2025 14:09:53.990] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.MouseHandler was not found fabric-screen-api-v1.mixins.json:MouseMixin from mod fabric_screen_api_v1
+[30Jun2025 14:09:53.993] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[30Jun2025 14:09:53.993] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[30Jun2025 14:09:53.993] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found fabric-screen-api-v1.mixins.json:ScreenAccessor from mod fabric_screen_api_v1
+[30Jun2025 14:09:55.091] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[30Jun2025 14:10:01.635] [main/INFO] [surveyor/]: [Surveyor] is not a map mod
+[30Jun2025 14:10:01.809] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.animation_overhaul.config.AnimationsConfig.
+[30Jun2025 14:10:01.809] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.animation_overhaul.config.AnimationsConfig read successfully.
+[30Jun2025 14:10:01.826] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.animation_overhaul.config.PlayerConfig.
+[30Jun2025 14:10:01.827] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.animation_overhaul.config.PlayerConfig read successfully.
+[30Jun2025 14:10:01.829] [modloading-worker-0/INFO] [animation_overhaul/]: Animation Overhaul's Config initialized
+[30Jun2025 14:10:01.893] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[30Jun2025 14:10:01.894] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[30Jun2025 14:10:02.169] [modloading-worker-0/INFO] [necronomicon/]: Necronomicon Initialized
+[30Jun2025 14:10:02.173] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.necronomicon.NecronomiconConfig.
+[30Jun2025 14:10:02.174] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.necronomicon.NecronomiconConfig read successfully.
+[30Jun2025 14:10:03.139] [main/INFO] [net.minecraft.resources.RegistryDataLoader/]: Capturing existing worldgen registries
+[30Jun2025 14:10:03.139] [main/INFO] [net.minecraft.resources.RegistryDataLoader/]: Found 0 injected RegistryDataLoader worldgen registries
+[30Jun2025 14:10:03.584] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[30Jun2025 14:10:03.597] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Starting version check at https://mrcrayfish.com/modupdatejson?id=configured
+[30Jun2025 14:10:03.754] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[30Jun2025 14:10:03.767] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[30Jun2025 14:10:03.767] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[30Jun2025 14:10:03.767] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[30Jun2025 14:10:03.963] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[30Jun2025 14:10:03.975] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
+[30Jun2025 14:10:03.979] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[30Jun2025 14:10:04.009] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[30Jun2025 14:10:04.017] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[30Jun2025 14:10:04.065] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -62,96 +62,94 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[30Jun2025 14:05:20.188] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[30Jun2025 14:05:20.387] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[30Jun2025 14:05:20.388] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[30Jun2025 14:05:21.147] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.20.1-2.5.30 Target: 1.20.1-2.5.32
-[30Jun2025 14:05:21.149] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_animated_doors] Starting version check at https://api.modrinth.com/updates/EuloLapn/forge_updates.json
-[30Jun2025 14:05:21.278] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_animated_doors] Found status: OUTDATED Current: 1.0 Target: 1.20+mod
-[30Jun2025 14:05:21.372] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[30Jun2025 14:05:22.321] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Ovalserver-terror/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23167!/assets/.mcassetsroot' uses unexpected schema
-[30Jun2025 14:05:22.321] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Ovalserver-terror/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23167!/data/.mcassetsroot' uses unexpected schema
-[30Jun2025 14:05:24.854] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
-[30Jun2025 14:05:25.010] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement death_angels:death_angel_destroyer: Task Advancement{parentId=death_angels:death_angel_destroyer, display=net.minecraft.advancements.DisplayInfo@53460794, rewards=AdvancementRewards{experience=10, loot=[death_angels:blocks/plutonium_ore], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@5aac5a81}, criteria={death_angel_destroyer_0=net.minecraft.advancements.Criterion@36607a8b}, requirements=[[death_angel_destroyer_0]], sends_telemetry_event=false}
-[30Jun2025 14:05:25.010] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1310 advancements
-[30Jun2025 14:05:25.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[30Jun2025 14:05:25.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[30Jun2025 14:05:25.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[30Jun2025 14:05:25.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[30Jun2025 14:05:25.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[30Jun2025 14:05:25.825] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[30Jun2025 14:05:25.933] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[30Jun2025 14:05:25.935] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[30Jun2025 14:05:25.935] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[30Jun2025 14:05:25.936] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[30Jun2025 14:05:26.093] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[30Jun2025 14:05:26.180] [Server thread/INFO] [surveyor/]: [Surveyor] Loading data for minecraft:overworld
-[30Jun2025 14:05:26.264] [Server thread/INFO] [surveyor/]: [Surveyor] Finished loading data for minecraft:overworld
-[30Jun2025 14:05:26.638] [Server thread/INFO] [surveyor/]: [Surveyor] Loading data for minecraft:the_nether
-[30Jun2025 14:05:26.639] [Server thread/INFO] [surveyor/]: [Surveyor] Finished loading data for minecraft:the_nether
-[30Jun2025 14:05:28.980] [Server thread/INFO] [surveyor/]: [Surveyor] Loading data for itsnotreal:itsnotreal_dimension
-[30Jun2025 14:05:28.980] [Server thread/INFO] [surveyor/]: [Surveyor] Finished loading data for itsnotreal:itsnotreal_dimension
-[30Jun2025 14:05:29.056] [Server thread/INFO] [surveyor/]: [Surveyor] Loading data for god:help
-[30Jun2025 14:05:29.057] [Server thread/INFO] [surveyor/]: [Surveyor] Finished loading data for god:help
-[30Jun2025 14:05:29.102] [Server thread/INFO] [surveyor/]: [Surveyor] Loading data for itsnotreal:its_your_fault
-[30Jun2025 14:05:29.103] [Server thread/INFO] [surveyor/]: [Surveyor] Finished loading data for itsnotreal:its_your_fault
-[30Jun2025 14:05:29.127] [Server thread/INFO] [surveyor/]: [Surveyor] Loading data for minecraft:the_end
-[30Jun2025 14:05:29.128] [Server thread/INFO] [surveyor/]: [Surveyor] Finished loading data for minecraft:the_end
-[30Jun2025 14:05:29.147] [Server thread/INFO] [surveyor/]: [Surveyor] Loading data for no_moon:lost
-[30Jun2025 14:05:29.148] [Server thread/INFO] [surveyor/]: [Surveyor] Finished loading data for no_moon:lost
-[30Jun2025 14:05:29.176] [Server thread/INFO] [surveyor/]: [Surveyor] Loading data for god:sacrifice
-[30Jun2025 14:05:29.177] [Server thread/INFO] [surveyor/]: [Surveyor] Finished loading data for god:sacrifice
-[30Jun2025 14:05:29.204] [Server thread/INFO] [surveyor/]: [Surveyor] Loading data for no_moon:alone_forever
-[30Jun2025 14:05:29.205] [Server thread/INFO] [surveyor/]: [Surveyor] Finished loading data for no_moon:alone_forever
-[30Jun2025 14:05:29.224] [Server thread/INFO] [surveyor/]: [Surveyor] Loading data for no_moon:bedrock
-[30Jun2025 14:05:29.225] [Server thread/INFO] [surveyor/]: [Surveyor] Finished loading data for no_moon:bedrock
-[30Jun2025 14:05:29.247] [Server thread/INFO] [surveyor/]: [Surveyor] Loading data for no_moon:core_77
-[30Jun2025 14:05:29.248] [Server thread/INFO] [surveyor/]: [Surveyor] Finished loading data for no_moon:core_77
-[30Jun2025 14:05:29.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[30Jun2025 14:05:32.754] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2025 14:05:32.780] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2025 14:05:32.792] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2025 14:05:32.805] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2025 14:05:32.825] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2025 14:05:32.833] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2025 14:05:32.848] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2025 14:05:32.851] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Jun2025 14:05:33.270] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[30Jun2025 14:05:33.770] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 74%
-[30Jun2025 14:05:35.228] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5959 ms
-[30Jun2025 14:05:35.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.270s)! For help, type "help"
-[30Jun2025 14:05:35.251] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[30Jun2025 14:05:35.282] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[30Jun2025 14:05:35.293] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'published-writing.gl.at.ply.gg:10221'
-[30Jun2025 14:05:35.294] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 10221
-[30Jun2025 14:08:45.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[30Jun2025 14:08:45.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ip<--[HERE]
-[30Jun2025 14:08:54.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[30Jun2025 14:08:54.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[30Jun2025 14:08:54.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[30Jun2025 14:08:54.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[30Jun2025 14:08:55.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[30Jun2025 14:08:55.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/itsnotreal:itsnotreal_dimension
-[30Jun2025 14:08:55.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/god:help
-[30Jun2025 14:08:55.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/itsnotreal:its_your_fault
-[30Jun2025 14:08:55.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[30Jun2025 14:08:55.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/no_moon:lost
-[30Jun2025 14:08:55.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/god:sacrifice
-[30Jun2025 14:08:55.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/no_moon:alone_forever
-[30Jun2025 14:08:55.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/no_moon:bedrock
-[30Jun2025 14:08:55.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/no_moon:core_77
-[30Jun2025 14:08:55.698] [Server thread/INFO] [surveyor/]: [Surveyor] Saving server data...
-[30Jun2025 14:08:55.802] [Server thread/INFO] [surveyor/]: [Surveyor] Finished saving data for minecraft:overworld | cleaned 4 terrain regions, 0 structure regions, 0 landmarks
-[30Jun2025 14:08:55.802] [Server thread/INFO] [surveyor/]: [Surveyor] Finished saving server data.
-[30Jun2025 14:08:55.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[30Jun2025 14:08:55.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[30Jun2025 14:08:55.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (itsnotreal_dimension): All chunks are saved
-[30Jun2025 14:08:55.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (help): All chunks are saved
-[30Jun2025 14:08:55.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (its_your_fault): All chunks are saved
-[30Jun2025 14:08:55.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[30Jun2025 14:08:55.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lost): All chunks are saved
-[30Jun2025 14:08:55.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (sacrifice): All chunks are saved
-[30Jun2025 14:08:55.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (alone_forever): All chunks are saved
-[30Jun2025 14:08:55.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (bedrock): All chunks are saved
-[30Jun2025 14:08:55.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (core_77): All chunks are saved
-[30Jun2025 14:08:55.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[30Jun2025 14:10:04.067] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[30Jun2025 14:10:04.244] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[30Jun2025 14:10:04.244] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[30Jun2025 14:10:04.748] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.20.1-2.5.30 Target: 1.20.1-2.5.32
+[30Jun2025 14:10:04.749] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_animated_doors] Starting version check at https://api.modrinth.com/updates/EuloLapn/forge_updates.json
+[30Jun2025 14:10:04.851] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_animated_doors] Found status: OUTDATED Current: 1.0 Target: 1.20+mod
+[30Jun2025 14:10:05.476] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[30Jun2025 14:10:06.522] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Ovalserver-terror/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23167!/assets/.mcassetsroot' uses unexpected schema
+[30Jun2025 14:10:06.523] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Ovalserver-terror/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23167!/data/.mcassetsroot' uses unexpected schema
+[30Jun2025 14:10:08.871] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 8 recipes
+[30Jun2025 14:10:09.022] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement death_angels:death_angel_destroyer: Task Advancement{parentId=death_angels:death_angel_destroyer, display=net.minecraft.advancements.DisplayInfo@5aac5a81, rewards=AdvancementRewards{experience=10, loot=[death_angels:blocks/plutonium_ore], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@bf138ee}, criteria={death_angel_destroyer_0=net.minecraft.advancements.Criterion@7bd841ef}, requirements=[[death_angel_destroyer_0]], sends_telemetry_event=false}
+[30Jun2025 14:10:09.022] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1310 advancements
+[30Jun2025 14:10:09.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[30Jun2025 14:10:09.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[30Jun2025 14:10:09.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[30Jun2025 14:10:09.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[30Jun2025 14:10:09.766] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[30Jun2025 14:10:09.793] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[30Jun2025 14:10:09.933] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[30Jun2025 14:10:09.934] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[30Jun2025 14:10:09.934] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[30Jun2025 14:10:09.935] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[30Jun2025 14:10:10.088] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[30Jun2025 14:10:10.153] [Server thread/INFO] [surveyor/]: [Surveyor] Loading data for minecraft:overworld
+[30Jun2025 14:10:10.259] [Server thread/INFO] [surveyor/]: [Surveyor] Finished loading data for minecraft:overworld
+[30Jun2025 14:10:10.536] [Server thread/INFO] [surveyor/]: [Surveyor] Loading data for no_moon:lost
+[30Jun2025 14:10:10.536] [Server thread/INFO] [surveyor/]: [Surveyor] Finished loading data for no_moon:lost
+[30Jun2025 14:10:12.896] [Server thread/INFO] [surveyor/]: [Surveyor] Loading data for no_moon:core_77
+[30Jun2025 14:10:12.897] [Server thread/INFO] [surveyor/]: [Surveyor] Finished loading data for no_moon:core_77
+[30Jun2025 14:10:12.946] [Server thread/INFO] [surveyor/]: [Surveyor] Loading data for minecraft:the_nether
+[30Jun2025 14:10:12.949] [Server thread/INFO] [surveyor/]: [Surveyor] Finished loading data for minecraft:the_nether
+[30Jun2025 14:10:12.963] [Server thread/INFO] [surveyor/]: [Surveyor] Loading data for itsnotreal:its_your_fault
+[30Jun2025 14:10:12.964] [Server thread/INFO] [surveyor/]: [Surveyor] Finished loading data for itsnotreal:its_your_fault
+[30Jun2025 14:10:12.993] [Server thread/INFO] [surveyor/]: [Surveyor] Loading data for no_moon:alone_forever
+[30Jun2025 14:10:12.993] [Server thread/INFO] [surveyor/]: [Surveyor] Finished loading data for no_moon:alone_forever
+[30Jun2025 14:10:13.016] [Server thread/INFO] [surveyor/]: [Surveyor] Loading data for god:help
+[30Jun2025 14:10:13.017] [Server thread/INFO] [surveyor/]: [Surveyor] Finished loading data for god:help
+[30Jun2025 14:10:13.041] [Server thread/INFO] [surveyor/]: [Surveyor] Loading data for itsnotreal:itsnotreal_dimension
+[30Jun2025 14:10:13.042] [Server thread/INFO] [surveyor/]: [Surveyor] Finished loading data for itsnotreal:itsnotreal_dimension
+[30Jun2025 14:10:13.063] [Server thread/INFO] [surveyor/]: [Surveyor] Loading data for no_moon:bedrock
+[30Jun2025 14:10:13.064] [Server thread/INFO] [surveyor/]: [Surveyor] Finished loading data for no_moon:bedrock
+[30Jun2025 14:10:13.087] [Server thread/INFO] [surveyor/]: [Surveyor] Loading data for minecraft:the_end
+[30Jun2025 14:10:13.087] [Server thread/INFO] [surveyor/]: [Surveyor] Finished loading data for minecraft:the_end
+[30Jun2025 14:10:13.110] [Server thread/INFO] [surveyor/]: [Surveyor] Loading data for god:sacrifice
+[30Jun2025 14:10:13.111] [Server thread/INFO] [surveyor/]: [Surveyor] Finished loading data for god:sacrifice
+[30Jun2025 14:10:13.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[30Jun2025 14:10:16.234] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Jun2025 14:10:16.261] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Jun2025 14:10:16.280] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Jun2025 14:10:16.323] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Jun2025 14:10:16.342] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Jun2025 14:10:16.359] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Jun2025 14:10:16.374] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Jun2025 14:10:16.636] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Jun2025 14:10:17.135] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 20%
+[30Jun2025 14:10:17.635] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 72%
+[30Jun2025 14:10:18.887] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5753 ms
+[30Jun2025 14:10:18.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.932s)! For help, type "help"
+[30Jun2025 14:10:18.912] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[30Jun2025 14:10:18.943] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[30Jun2025 14:10:18.954] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'published-writing.gl.at.ply.gg:10221'
+[30Jun2025 14:10:18.956] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 10221
+[30Jun2025 14:11:14.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30Jun2025 14:11:14.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30Jun2025 14:11:14.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30Jun2025 14:11:15.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[30Jun2025 14:11:15.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/no_moon:lost
+[30Jun2025 14:11:15.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/no_moon:core_77
+[30Jun2025 14:11:15.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[30Jun2025 14:11:15.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/itsnotreal:its_your_fault
+[30Jun2025 14:11:15.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/no_moon:alone_forever
+[30Jun2025 14:11:15.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/god:help
+[30Jun2025 14:11:15.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/itsnotreal:itsnotreal_dimension
+[30Jun2025 14:11:15.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/no_moon:bedrock
+[30Jun2025 14:11:15.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[30Jun2025 14:11:15.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/god:sacrifice
+[30Jun2025 14:11:15.818] [Server thread/INFO] [surveyor/]: [Surveyor] Saving server data...
+[30Jun2025 14:11:15.946] [Server thread/INFO] [surveyor/]: [Surveyor] Finished saving data for minecraft:overworld | cleaned 4 terrain regions, 0 structure regions, 0 landmarks
+[30Jun2025 14:11:15.947] [Server thread/INFO] [surveyor/]: [Surveyor] Finished saving server data.
+[30Jun2025 14:11:16.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[30Jun2025 14:11:16.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lost): All chunks are saved
+[30Jun2025 14:11:16.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (core_77): All chunks are saved
+[30Jun2025 14:11:16.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30Jun2025 14:11:16.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (its_your_fault): All chunks are saved
+[30Jun2025 14:11:16.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (alone_forever): All chunks are saved
+[30Jun2025 14:11:16.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (help): All chunks are saved
+[30Jun2025 14:11:16.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (itsnotreal_dimension): All chunks are saved
+[30Jun2025 14:11:16.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (bedrock): All chunks are saved
+[30Jun2025 14:11:16.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Jun2025 14:11:16.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (sacrifice): All chunks are saved
+[30Jun2025 14:11:16.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
