@@ -292,3 +292,32 @@ Missing minecraft:entity_type:
 [30Jun2025 13:20:44.447] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ovalcup24 lost connection: Disconnected
 [30Jun2025 13:20:44.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ovalcup24 left the game
 [30Jun2025 13:20:44.448] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ovalcup24
+[30Jun2025 13:31:34.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30Jun2025 13:31:34.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30Jun2025 13:31:34.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30Jun2025 13:31:34.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[30Jun2025 13:31:36.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/god:sacrifice
+[30Jun2025 13:31:36.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[30Jun2025 13:31:36.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[30Jun2025 13:31:36.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/no_moon:lost
+[30Jun2025 13:31:36.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/no_moon:bedrock
+[30Jun2025 13:31:36.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/no_moon:core_77
+[30Jun2025 13:31:36.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/god:help
+[30Jun2025 13:31:36.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/itsnotreal:itsnotreal_dimension
+[30Jun2025 13:31:36.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/no_moon:alone_forever
+[30Jun2025 13:31:36.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/itsnotreal:its_your_fault
+[30Jun2025 13:31:36.020] [Server thread/INFO] [surveyor/]: [Surveyor] Saving server data...
+[30Jun2025 13:31:36.080] [Server thread/INFO] [surveyor/]: [Surveyor] Finished saving data for minecraft:overworld | cleaned 2 terrain regions, 0 structure regions, 0 landmarks
+[30Jun2025 13:31:36.080] [Server thread/INFO] [surveyor/]: [Surveyor] Finished saving server data.
+[30Jun2025 13:31:36.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[30Jun2025 13:31:36.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (sacrifice): All chunks are saved
+[30Jun2025 13:31:36.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30Jun2025 13:31:36.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Jun2025 13:31:36.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lost): All chunks are saved
+[30Jun2025 13:31:36.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (bedrock): All chunks are saved
+[30Jun2025 13:31:36.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (core_77): All chunks are saved
+[30Jun2025 13:31:36.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (help): All chunks are saved
+[30Jun2025 13:31:36.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (itsnotreal_dimension): All chunks are saved
+[30Jun2025 13:31:36.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (alone_forever): All chunks are saved
+[30Jun2025 13:31:36.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (its_your_fault): All chunks are saved
+[30Jun2025 13:31:36.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
